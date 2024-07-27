@@ -6,7 +6,7 @@ package javafundamentals;
 
 /**
  *
- * @author maumneto
+ * @author maumneto e giulie 
  */
 public class TesteRun {
     public static void main(String args[]) {
